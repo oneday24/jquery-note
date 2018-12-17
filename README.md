@@ -1,2 +1,4 @@
 # jquery-note
-使用jquery注意的地方
+## input
+* $("#id").val(); //get value
+* $("#id").click(); //select a radio
